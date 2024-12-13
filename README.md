@@ -1,4 +1,6 @@
-# Flask Web App Tutorial
+# Flask Web App
+
+This is a web application which can host an online community of readers to encourage borrowing and sharing of books in order to encourage conservarion of resources.
 
 ## Setup & Installtion
 
